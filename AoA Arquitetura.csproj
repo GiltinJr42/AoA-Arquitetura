@@ -90,6 +90,16 @@
   <ItemGroup>
     <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
+    <Content Include="Imagens\00.jpg" />
+    <Content Include="Imagens\01.png" />
+    <Content Include="Imagens\02.png" />
+    <Content Include="Imagens\03.png" />
+    <Content Include="Imagens\04.png" />
+    <Content Include="Imagens\05.jpg" />
+    <Content Include="Imagens\06.jpg" />
+    <Content Include="Imagens\07.png" />
+    <Content Include="Imagens\08.jpg" />
+    <Content Include="Imagens\09.png" />
     <Content Include="Imagens\carro1.png" />
     <Content Include="Imagens\carro2.png" />
     <Content Include="Imagens\carro3.png" />
